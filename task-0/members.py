@@ -1,4 +1,4 @@
 [
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
+    {"name": "Muenfakfar Vachanarat", "sid": "6422782654"},
+    {"name": "Adirut Lertthirathanaphone", "sid": "6422772085"},
 ]
